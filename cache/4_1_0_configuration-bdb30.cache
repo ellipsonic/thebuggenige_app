@@ -1,0 +1,1 @@
+a:2:{s:4:"core";a:1:{s:5:"debug";b:0;}s:4:"b2db";a:5:{s:8:"username";s:4:"root";s:8:"password";s:4:"root";s:3:"dsn";s:43:"mysql:host=localhost;dbname=thebuggenige_db";s:11:"tableprefix";s:4:"tbg_";s:10:"cacheclass";s:8:"TBGCache";}}

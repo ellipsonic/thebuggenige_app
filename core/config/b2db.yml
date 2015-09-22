@@ -1,0 +1,7 @@
+b2db:
+    username: root
+    password: "root"
+    dsn: "mysql:host=localhost;dbname=thebuggenige_db"
+    tableprefix: 'tbg_'
+    cacheclass: 'TBGCache'
+
